@@ -1,8 +1,9 @@
 {
   "name": "nprompt",
-  "type": "module",
   "version": "1.0.0",
-  "main": "prompt.js",
+  "type": "module",
+  "main": "./prompt.js",
+  "exports": "./prompt.js",
   "description": "Simple prompt method for Node.js",
   "author": "Mourão",
   "license": "MIT"
