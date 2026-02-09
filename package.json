@@ -6,5 +6,14 @@
   "exports": "./prompt.js",
   "description": "Simple prompt method for Node.js",
   "author": "Mourão",
-  "license": "MIT"
+  "license": "MIT",
+  "files": ["prompt.js"],
+  "keywords": ["prompt", "cli", "input", "terminal", "node"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MouraoDev22/nprompt.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
 }
